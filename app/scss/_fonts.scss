@@ -1,0 +1,10 @@
+@import "_mixins/font-face";
+
+@include font-face("roboto-example", "../fonts/RobotoRegular/RobotoRegular");
+@include font-face("roboto-thin", "../fonts/RobotoThin/RobotoThin", thin);
+@include font-face("font-awesome", "../fonts/FaBrands/FaBrands");
+@include font-face("font-awesome", "../fonts/FaRegular/FaRegular");
+@include font-face("font-awesome", "../fonts/FaSolid/FaSolid");
+@include font-face("linea", "../fonts/Linea/LineaBasic-10");
+
+
